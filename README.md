@@ -1,8 +1,29 @@
-<<<<<<< HEAD
-# PORTFOLIO
+PortM – Personal Portfolio 🚀
 
-Simple and Awesome Portfolio!
+A modern, clean, and responsive developer portfolio designed to showcase my projects, skills, and contact information.
 
-=======
-# PortM
->>>>>>> 28add0022b69087ca11d8ffb3cb47f9c6f2308c3
+🌟 Features
+- Fully responsive design  
+- Smooth animations and transitions  
+- Projects section  
+- Skills section  
+- About & Contact sections  
+- Clean dark-themed UI  
+
+🛠️ Tech Stack
+- HTML  
+- CSS / Tailwind  
+- JavaScript  
+
+📂 Project Structure
+- `index.html` – Entry point  
+- `assets/` – Images, icons, etc.  
+- `styles/` – CSS files  
+- `scripts/` – JavaScript files  
+
+🌐 Live Demo
+👉 https://pranay625.github.io/PortM
+
+📧 Contact
+Feel free to reach out for collaboration or opportunities!
+Email: pranayrajesh625@gmail.com
